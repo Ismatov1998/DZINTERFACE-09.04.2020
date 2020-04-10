@@ -6,7 +6,13 @@ namespace myNameSpace
  { 
    static void Main()
   {
-   
+   Player Student=new Player();
+   Student.play();
+   Student.pause();
+   Student.stop();
+   Student.Record();
+   Student.Pause();
+   Student.Stop();
 
   }
 
@@ -41,7 +47,33 @@ namespace myNameSpace
 
         }
     }
-   
+    class Player:IPlayable,IRecodable
+    { 
+    public void play()
+      {
+       Console.WriteLine("play");
+      }
+    public void pause()
+    {
+     Console.WriteLine("pause");
+    }
+   public void stop()
+    {
+       Console.WriteLine("stop"); 
+    }
+       
+    public void Record()        
+    {
+      Console.WriteLine("Record");
+    }
+    public void Pause() 
+    {
+     Console.WriteLine("Pause");
+    }
+    public void Stop()
+    {
+      Console.WriteLine("Stop");
+    }
       
-    
+    } 
 }
