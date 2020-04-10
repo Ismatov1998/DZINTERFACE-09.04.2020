@@ -1,0 +1,11 @@
+C:\PLk\POL\bin\Debug\netcoreapp3.1\PLK.exe
+C:\PLk\POL\bin\Debug\netcoreapp3.1\PLK.deps.json
+C:\PLk\POL\bin\Debug\netcoreapp3.1\PLK.runtimeconfig.json
+C:\PLk\POL\bin\Debug\netcoreapp3.1\PLK.runtimeconfig.dev.json
+C:\PLk\POL\bin\Debug\netcoreapp3.1\PLK.dll
+C:\PLk\POL\bin\Debug\netcoreapp3.1\PLK.pdb
+C:\PLk\POL\obj\Debug\netcoreapp3.1\PLK.csprojAssemblyReference.cache
+C:\PLk\POL\obj\Debug\netcoreapp3.1\PLK.AssemblyInfoInputs.cache
+C:\PLk\POL\obj\Debug\netcoreapp3.1\PLK.AssemblyInfo.cs
+C:\PLk\POL\obj\Debug\netcoreapp3.1\PLK.dll
+C:\PLk\POL\obj\Debug\netcoreapp3.1\PLK.pdb
